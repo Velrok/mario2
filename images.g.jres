@@ -1,0 +1,23 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAEQAAAAAAACIRAOAAAAAgIhEA7iDkBCICAOjuIkIuIgCA6O4S9GaIiIgAACFELiKIiAAAIfRmZoiIAAASQi4iiIgAACDkhIiIiOjuAAAgIgAA6O4AAAAiEgEA7gAAACASAQDgAAAAABIBAAAAAAAAEAEAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "super Mario"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiIiIAAAAAIkRERCIAAABCVVVFJAAAIET1/1UkAAAgVPX/X0QCACBU9f9fRQIAIERV9VVFAgAAQkRVRUQCAAAiQkREIgAAAAAiIiIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "fire"
+    },
+    "song1": {
+        "data": "0078000408010100001c00010a006400f401640000040000000000000000000000000005000004120000000400012404000800012708000c00012a",
+        "mimeType": "application/mkcd-song",
+        "displayName": "bling",
+        "namespace": "mySongs."
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
